@@ -8,14 +8,14 @@
 
 ## Description
 - This a Internship project by Sparks Foundation.
-- This project is built on HTML/CSS, Bootstrap, PHP and MySQL.
-- Details of Customers are maintained as `Name`, `Email`, `Current_Balance` are fields.
+- This project is built on CSS, PHP and MySQL.
+- Details of Customers are maintained as `Account_Number`, `Name`, `Email`, `Current_Balance` are fields.
 - Transaction is done through PDO, If some Error occured while Transaction changes made to table is Rollback(Reverted).  
 
 ## First Time Installation
 - Clone the Repository.
-- Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to XAMPP installation Directory and then inside htdocs folder.
+- Make sure you have installed XAMPP on your computer.
+- Copy this folder(TSF-BasicBankingSystem) to XAMPP installation Directory and then inside htdocs folder.
 
 ```
 For Example
@@ -30,7 +30,7 @@ http://localhost/TSF-BasicBankingSystem/landingPage.php
 
 ## How To Run
 - After following steps above(First Time Installation).
-- Make Sure XAMP is active with Apache and MySQL Server Enabled.
+- Make Sure XAMPP is active with Apache and MySQL Server Enabled.
 - Open Browser Enter the following URL:
 ```
 http://localhost/TSF-BasicBankingSystem/
